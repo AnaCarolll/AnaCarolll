@@ -1,6 +1,6 @@
 ### Hey, I'm AnaCarolll👋
 
--💻Estudando Javascript
+-💻Estudando Desenvolvimento Web
 
 -📚Estudando Inglês
 
