@@ -1,4 +1,4 @@
-### Hey, i'm AnaCarolll👋
+### Hey, I'm AnaCarolll👋
 
 -💻Estudando Javascript
 
