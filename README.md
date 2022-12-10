@@ -4,7 +4,7 @@
 
 -📚Estudando Inglês
 
--🎓Cursando terceiro ano do Ensino Médio
+-🎓Formada E.M
 
 
 
