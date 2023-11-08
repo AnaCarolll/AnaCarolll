@@ -6,7 +6,7 @@
  <i> "As grandes ideias surgem da observação dos pequenos detalhes" Augusto Cury  <br>
 </h6>
   
-  <h3 align="center"> Desenvolvedora Web 👩🏿‍💻 <br>  </h3>
+  <h3 align="center"> Desenvolvedora Back-and 👩🏿‍💻 <br>  </h3>
 <!-- 
 <div align="center">
   <a href="https://github.com/AnaCarolll"> -->
